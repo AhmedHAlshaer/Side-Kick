@@ -1,6 +1,5 @@
 import gradio as gr
 from sidekick import Sidekick
-#demo check
 
 async def setup():
     sidekick = Sidekick()
