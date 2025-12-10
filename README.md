@@ -1,11 +1,6 @@
-# 🤖 SideKick - Autonomous AI Agent
+# SideKick - Autonomous AI Agent
 
 An agentic AI assistant built with **LangGraph** that autonomously completes tasks using a worker-evaluator architecture. The agent can browse the web, search information, execute code, and iteratively work toward user-defined success criteria.
-
-![Python](https://img.shields.io/badge/Python-3.12+-blue?logo=python&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-Agentic_AI-green)
-![Playwright](https://img.shields.io/badge/Playwright-Browser_Automation-orange)
-![Gradio](https://img.shields.io/badge/Gradio-UI-yellow)
 
 ## 🎯 Overview
 
